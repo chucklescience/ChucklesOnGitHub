@@ -17,8 +17,8 @@ Check out [Open Ephys](https://open-ephys.org) to see what the team develops and
 - [Bonsai](https://bonsai-rx.org/)
 - [DeepLabCut](https://deeplabcut.github.io/DeepLabCut/README.html)
 
-### Why that username tho?
-Well... back in Intro to CS for Biologists I did that "learn what version control is and create your first repository" lesson. I didn't know it would stick with me forever. I was Chuckles on many sites and here I was ChucklesOnGitHub (probably because Chuckles was taken). Testimony to the fact that you can do cool stuff without knowing everything... just get started! The constant reminder is humbling.
+### Didn't you have a different username?
+Yeah, but chucklescience is easier to type, to say out loud and matches my socials. I was ChucklesOnGitHub for historical reasons... back in Intro to CS for Biologists I did that "learn what version control is and create your first repository" lesson. I didn't know it would stick with me forever. I was Chuckles on many sites and here I was ChucklesOnGitHub (probably because Chuckles was taken). Testimony to the fact that you can do cool stuff without knowing everything... just get started!
 
 <!--
 **ChucklesOnGitHub/ChucklesOnGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
